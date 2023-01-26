@@ -1,8 +1,8 @@
 
-<div align="center">
-  
+
 ![header](https://capsule-render.vercel.app/api?type=waving&animation=scaleIn&color=gradient&height=300&section=header&text=토끼와_거북이&fontSize=60&fontAlign=75&stroke=FF00FF&strokeWidth=.50)
 
+<div align="center">
 
 # 만든 사람
 
