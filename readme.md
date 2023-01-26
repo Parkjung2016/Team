@@ -13,6 +13,6 @@ printf("토끼와 거북이는 길을 가다 속도에 관해 시비가 걸렸�
 </div>
 
 <span style="font-size:250%">🐰</span>
-<span style="font-size:160%">:할말</span>
+<span style="font-size:160%">:여보쇼 거북씨, 달리기 함 해보지 않갔어?</span>
 <span style="font-size:250%">🐢</span>
-<span style="font-size:160%">:할말</span>
+<span style="font-size:160%">:말 마라우, 내 땅에서 달리면 당연히 지지 않갔어? 날래 가던길 가시라요</span>
