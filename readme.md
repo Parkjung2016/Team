@@ -1,6 +1,4 @@
-printf("토끼와 거북이는 길을 가다 속도에 관해 시비가 걸렸다");
 
-그러나
 
 ![header](https://capsule-render.vercel.app/api?type=waving&animation=scaleIn&color=gradient&height=300&section=header&text=토끼와_거북이&fontSize=60&fontAlign=75&stroke=FF00FF&strokeWidth=.50)
 
@@ -11,6 +9,8 @@ printf("토끼와 거북이는 길을 가다 속도에 관해 시비가 걸렸�
 ## 박정호, 아현우
 
 </div>
+
+어느날 길을 가던 중 토끼와 거북이는 시비가 걸렸다...
 
 <span style="font-size:250%">🐰</span>
 <span style="font-size:160%">:여보쇼 거북씨, 달리기 함 해보지 않갔어?</span>
